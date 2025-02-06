@@ -1,2 +1,2 @@
 # LeetCodes
-desafios feitos do leetcode
+Repositório com soluções dos desafios do LeetCode. Códigos prontos, organizados e funcionais.
