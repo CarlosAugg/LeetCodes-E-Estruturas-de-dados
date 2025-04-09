@@ -8,4 +8,4 @@ class Solution:
         unique_values = sorted(set(num for num in nums if num > k), reverse=True)
         
         # Cada valor único representa uma operação
-        return len(unique_values)
+        return len(unique_values)""
